@@ -16,5 +16,6 @@ func main() {
 	})
 
 	log.Info("Starting server on :8080")
+	log.Info("leo say hi")
 	r.Run(":8080") // 監聽 :8080
 }
