@@ -19,6 +19,6 @@ func main() {
 	log.Info("Starting server on :8080")
 	log.Info("leo say hi")
 
-	log.Info("spring is sp_002_leo 001")
+	log.Info("spring is sp_002_leo 002")
 	r.Run(":8080") // 監聽 :8080
 }
